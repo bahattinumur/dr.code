@@ -8,7 +8,9 @@ The doctor’s pictures were created by Bing image creator (based on Dall-3).
 
 <h2> Software Languages </h2>
 
-I made it using HTML and CSS.
+- HTML
+
+- CSS
 
 <h2> Screen Gif </h2>
 
